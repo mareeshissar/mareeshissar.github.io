@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Debmalya Mallick | Academic</title>
-    <link>/author/debmalya-mallick/</link>
-      <atom:link href="/author/debmalya-mallick/index.xml" rel="self" type="application/rss+xml" />
-    <description>Debmalya Mallick</description>
+    <title>5 | Academic</title>
+    <link>/publication-type/5/</link>
+      <atom:link href="/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2020 21:28:36 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Debmalya Mallick</title>
-      <link>/author/debmalya-mallick/</link>
+      <title>5</title>
+      <link>/publication-type/5/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/springer-lncs/</link>
       <pubDate>Wed, 17 Jun 2020 21:28:36 -0400</pubDate>
       <guid>/publication/springer-lncs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance analysis of dual-hop DF relaying systems in the combined presence of CEE and RFI</title>
-      <link>/publication/comnets-paper/</link>
-      <pubDate>Wed, 17 Jun 2020 15:46:35 -0400</pubDate>
-      <guid>/publication/comnets-paper/</guid>
       <description></description>
     </item>
     

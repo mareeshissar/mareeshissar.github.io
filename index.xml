@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2020 15:46:35 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2020 21:28:36 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Dual-Hop Decode-and-Forward Relaying in the Combined Presence of CEE and RFI: Performance Analysis and Comparison</title>
+      <link>/publication/springer-lncs/</link>
+      <pubDate>Wed, 17 Jun 2020 21:28:36 -0400</pubDate>
+      <guid>/publication/springer-lncs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Performance analysis of dual-hop DF relaying systems in the combined presence of CEE and RFI</title>
