@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Mareesh Kumar Issar</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2020 21:28:36 -0400</lastBuildDate>
+    <description>Mareesh Kumar Issar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mareesh Kumar Issar</copyright><lastBuildDate>Thu, 25 Jun 2020 02:16:59 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
+      <title>Mareesh Kumar Issar</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>colorizer</title>
+      <link>/project/my-project-name/</link>
+      <pubDate>Thu, 25 Jun 2020 02:16:59 -0400</pubDate>
+      <guid>/project/my-project-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to ai</title>
+      <link>/project/intro-to-ai/</link>
+      <pubDate>Thu, 25 Jun 2020 02:01:15 -0400</pubDate>
+      <guid>/project/intro-to-ai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dual-Hop Decode-and-Forward Relaying in the Combined Presence of CEE and RFI: Performance Analysis and Comparison</title>
@@ -25,6 +41,14 @@
       <link>/publication/comnets-paper/</link>
       <pubDate>Wed, 17 Jun 2020 15:46:35 -0400</pubDate>
       <guid>/publication/comnets-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Implementation of Content Routing Protocol</title>
+      <link>/talk/lutron-talk/</link>
+      <pubDate>Mon, 09 Mar 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/lutron-talk/</guid>
       <description></description>
     </item>
     
