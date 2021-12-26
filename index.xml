@@ -5,7 +5,7 @@
     <link>https://mareeshissar.github.io/</link>
       <atom:link href="https://mareeshissar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mareesh Kumar Issar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | Mareesh Kumar Issar | Permanent Beta</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | Mareesh Kumar Issar | Permanent Beta</copyright><lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mareeshissar.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Mareesh Kumar Issar</title>
@@ -13,12 +13,11 @@
     </image>
     
     <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <title>[The frisbee perspective🥏, Gliding into research one disc at a time](https://mareeshissar.medium.com/the-frisbee-perspective-gliding-into-research-one-disc-at-a-time-95bbfed019c7)</title>
       <link>https://mareeshissar.github.io/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://mareeshissar.github.io/post/getting-started/</guid>
-      <description>&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -180,10 +179,18 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Performance analysis of dual-hop DF relaying systems in the combined presence of CEE and RFI</title>
-      <link>https://mareeshissar.github.io/publication/comnets_paper/</link>
+      <title>Dual-Hop Decode-and-Forward Relaying in the Combined Presence of CEE and RFI: Performance Analysis and Comparison</title>
+      <link>https://mareeshissar.github.io/publication/springer_lncs/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://mareeshissar.github.io/publication/comnets_paper/</guid>
+      <guid>https://mareeshissar.github.io/publication/springer_lncs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance analysis of dual-hop DF relaying systems in the combined presence of CEE and RFI</title>
+      <link>https://mareeshissar.github.io/publication/comsnets_paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://mareeshissar.github.io/publication/comsnets_paper/</guid>
       <description></description>
     </item>
     
