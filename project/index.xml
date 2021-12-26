@@ -40,6 +40,54 @@
     </item>
     
     <item>
+      <title>Minesweeper</title>
+      <link>https://mareeshissar.github.io/project/minesweeper/</link>
+      <pubDate>Tue, 01 Oct 2019 02:01:15 +0000</pubDate>
+      <guid>https://mareeshissar.github.io/project/minesweeper/</guid>
+      <description>&lt;p&gt;Created an agent to play the game of minesweeper by taking inference informed actions using the following levels of inference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Baseline Inference - Used local knowledge about a cell and its eight immediate neighbors&lt;/li&gt;
+&lt;li&gt;Inference Queue - Used global knowledge from all currently opened cells&lt;/li&gt;
+&lt;li&gt;Constraint Satisfaction Problem - Logically combined more than one clues to deduce new information&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maze Runner</title>
+      <link>https://mareeshissar.github.io/project/maze_runner/</link>
+      <pubDate>Sun, 01 Sep 2019 02:01:15 +0000</pubDate>
+      <guid>https://mareeshissar.github.io/project/maze_runner/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Implemented graph search algorithms (BFS, DFS, A* and Bidirectional BFS) for path planning on a 100 X 100 maze with obstacles&lt;/li&gt;
+&lt;li&gt;Analyzed the maze-solvability vs obstacle density for the above mentioned algorithms&lt;/li&gt;
+&lt;li&gt;Evaluated the performance of A* algorithm using Euclidean and Manhattan heuristics&lt;/li&gt;
+&lt;li&gt;Implemented local search algorithms (hill climbing, simulated annealing and genetic) to discover harder mazes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Content Routing Protocol</title>
+      <link>https://mareeshissar.github.io/project/content_routing_protocol/</link>
+      <pubDate>Wed, 01 May 2019 02:01:15 +0000</pubDate>
+      <guid>https://mareeshissar.github.io/project/content_routing_protocol/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Designed and implemented 7 packets types along with network elements like routing tables, packet classifier, and packet forwarder in Click modular router&lt;/li&gt;
+&lt;li&gt;Reduced end-to-end latency by 39% (24 ms) by implementing a content centric routing protocol over traditional (host centric) network protocols&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stock Price Prediction</title>
+      <link>https://mareeshissar.github.io/project/stock_price_prediction/</link>
+      <pubDate>Mon, 01 Apr 2019 02:01:15 +0000</pubDate>
+      <guid>https://mareeshissar.github.io/project/stock_price_prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Account Management System</title>
       <link>https://mareeshissar.github.io/project/account_management_system/</link>
       <pubDate>Sat, 01 Dec 2018 02:01:15 +0000</pubDate>
