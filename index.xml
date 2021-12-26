@@ -30,6 +30,33 @@
     </item>
     
     <item>
+      <title>Colorizer</title>
+      <link>https://mareeshissar.github.io/project/colorizer/</link>
+      <pubDate>Sun, 01 Dec 2019 02:16:59 +0000</pubDate>
+      <guid>https://mareeshissar.github.io/project/colorizer/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Generated colorized version of a grayscale image (240 pixels X 420 pixels) using K-means clustering and Artificial Neural Network&lt;/li&gt;
+&lt;li&gt;Explored K-means clustering algorithm to reduce the color palette of the image from 16777216 possible combinations to 29 most dominant colors&lt;/li&gt;
+&lt;li&gt;Implemented a two Layer Artificial Neural Network consisting of 60 nodes with sigmoid activation function in the hidden layer and softmax activation function in the output layer&lt;/li&gt;
+&lt;li&gt;Resolved ambiguity present in mapping multiple RGB values to a single grayscale value by taking a 3 X 3 window of pixels to make use of the contextual information present around a single grayscale pixel&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian hunting</title>
+      <link>https://mareeshissar.github.io/project/bayesian_hunting/</link>
+      <pubDate>Fri, 01 Nov 2019 02:01:15 +0000</pubDate>
+      <guid>https://mareeshissar.github.io/project/bayesian_hunting/</guid>
+      <description>&lt;p&gt;Used Bayesian inference for tracking the location of a target hidden in a multi-terrain landscape by using the following rules:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Searching the cell with the highest probability of finding the target&lt;/li&gt;
+&lt;li&gt;Searching the cell with the highest probability of containing the target&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Intelligent 5G Cellular Environment</title>
       <link>https://mareeshissar.github.io/talk/intelligent-5g-cellular-environment/</link>
       <pubDate>Thu, 15 Aug 2019 12:30:00 +0000</pubDate>
