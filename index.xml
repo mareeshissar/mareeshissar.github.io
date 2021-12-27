@@ -5,12 +5,29 @@
     <link>https://mareeshissar.github.io/</link>
       <atom:link href="https://mareeshissar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mareesh Kumar Issar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | Mareesh Kumar Issar | Permanent Beta</copyright><lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | Mareesh Kumar Issar | Permanent Beta</copyright><lastBuildDate>Mon, 06 Dec 2021 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mareeshissar.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mareeshissar.github.io/media/icon_hu9d40ff5ebbc938ffe0082d8c7f94f7d0_176719_512x512_fill_lanczos_center_3.png</url>
       <title>Mareesh Kumar Issar</title>
       <link>https://mareeshissar.github.io/</link>
     </image>
+    
+    <item>
+      <title>From Bits to Orbits, A High-Level Overview of Space Communication</title>
+      <link>https://mareeshissar.github.io/talk/from-bits-to-orbits-a-high-level-overview-of-space-communication/</link>
+      <pubDate>Mon, 06 Dec 2021 10:00:00 +0000</pubDate>
+      <guid>https://mareeshissar.github.io/talk/from-bits-to-orbits-a-high-level-overview-of-space-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-ASSOC: Enhanced Energy Efficient User ASSOCiation Algorithm for Future Cellular Networks</title>
+      <link>https://mareeshissar.github.io/publication/masters_thesis/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://mareeshissar.github.io/publication/masters_thesis/</guid>
+      <description>&lt;p&gt;Future cellular networks need to reduce their carbon footprint in view of rapidly increasing data traffic from emerging applications including Augmented Reality (AR)/ Virtual Reality (VR), autonomous vehicles and Internet of Things (IoT). A potential solution is the addition of small base stations, overlaid upon the macro base station, installed at locations encountering traffic hotspot or a coverage gap. However, the addition of base stations leads to an increase in the overall static network power consumption. Algorithms for energy efficiency aim to strike a balance between network throughput and power consumption. In this work, we evaluate several existing optimization based user association algorithms focusing on load balancing and power minimization metrics. Verification of the performance for all user association algorithms is carried out using MATLAB based system level simulator for a network topology comprising of one macro and four pico base stations considering static users. Motivated by the gains demonstrated using optimization based schemes, we consider the design of a lower complexity class of heuristic user association algorithms with comparable performance. The proposed E-ASSOC algorithm utilizes load at each base station and the difference amongst the two best Signal to Noise Ratios (SNRs) for each user as its threshold metrics. Simulation results demonstrate a gain of 41.26% in the total system throughput along with reduction of 32.96% in the system power consumption. Eventually indicating an increase of 87.83% in energy efficiency over the baseline max-SNR based association algorithm along with decrease of 7.2% for load balancing algorithm and 10.13% for power minimization algorithm. Fairness of the algorithms examined using Jain’s Fairness Index (JFI) also shows marked improvement over the baseline scheme.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The frisbee perspective🥏, Gliding into research one disc at a time</title>
@@ -254,7 +271,8 @@ $$&lt;/p&gt;
       <link>https://mareeshissar.github.io/publication/springer_lncs/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>https://mareeshissar.github.io/publication/springer_lncs/</guid>
-      <description></description>
+      <description>&lt;p&gt;In this paper, we look into the performance of decode-and-forward (DF) relaying system in the presence of both channel estimation error (CEE) and radio frequency impairments (RFI). We have sub-divided the analysis into different cases based on the presence of RFI at the relay, source and destination. First, the end-to-end signal-to-noise-plus-distortion-and-error ratio (SNDER) expression is derived, followed by an exact closed-form outage probability (OP) expression for Nakagami-m fading channel. As a special case, the OP analysis for Rayleigh fading channel is also provided. From the derived expressions, the relation amongst CEE and RFI is analyzed. For a complete study, the high SNR analysis of the derived equations is also carried out. The analytical results have been verified using the Monte Carlo simulations. Intriguing results are presented with the help of plots shown in the numerical analysis. Here, we have presented plots which deal with different channel conditions. Further, plots comparing symmetric and asymmetric channels are also presented.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -262,7 +280,8 @@ $$&lt;/p&gt;
       <link>https://mareeshissar.github.io/publication/comsnets_paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>https://mareeshissar.github.io/publication/comsnets_paper/</guid>
-      <description></description>
+      <description>&lt;p&gt;This paper presents the performance analysis of decode-and-forward (DF) relaying system in presence of both channel estimation error (CEE) and radio frequency impairments (RFI). First, the end-to-end signal-to-noise-plus-distortion-and-error ratio (SNDER) expression is derived, followed by an exact closed-form outage probability (OP) expression for Nakagami-m fading channel. As a special case, the OP analysis for Rayleigh fading channel is also provided. From the derived expressions, the relation amongst CEE and RFI is analyzed. For a complete study, the high SNR analysis of the derived equations is also carried out. The analytical results have been verified using the Monte Carlo simulations. Finally, intriguing results are presented with the help of plots shown in the numerical analysis.&lt;/p&gt;
+</description>
     </item>
     
     <item>
